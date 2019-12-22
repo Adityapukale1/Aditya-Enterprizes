@@ -1,0 +1,140 @@
+body{
+  background-color: #7FFFD4;
+  color: #000000;
+  margin: 0;
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+
+p{
+  font-size: 18px;
+  line-height: 2;
+}
+
+
+h1{
+  color: #1E90FF;
+  font-size: 5.625rem;
+  font-family: 'Parisienne', cursive;
+  margin-bottom: 0;
+}
+
+h2{
+  color: #008080;
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin-top: 21px;
+}
+
+h3{
+color: #1E90FF;
+font-family: 'Merriweather', serif;
+
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 6%;
+  margin: 100px auto;
+
+}
+
+a{
+  color: #1E90FF;
+  margin: 10px 20px;
+  font-family: 'Merriweather', serif;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+
+}
+
+
+.top-container {
+  background-color: #09FA9F;
+  padding-top: 40px;
+
+  position: relative;
+}
+
+.top-cloud {
+  right: 240px;
+  top: 50px;
+  position: absolute;
+}
+
+.bottom-cloud {
+  left: 240px;
+  bottom: 300px;
+
+  position: absolute;
+}
+
+#profile {
+  width: 15%;
+  height: 15%;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+.bio {
+  width: 30%;
+  margin: auto;
+  text-align: center;
+
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.dev_skill{
+  width: 35%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.sing_skill {
+  width: 30%;
+  margin-top: 45px;
+  border-radius:100%;
+  float: right;
+  margin-left: 30px;
+}
+
+.interest {
+  width: 30%;
+  margin: 30px auto;
+  text-align: left;
+
+}
+
+
+.contact-me{
+  margin: 50px 50px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+background-color: #09FA9F;;
+padding: 50px 0 25px;
+}
+
+
+.copy-right{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  margin: 28px 0;
+
+
+}
